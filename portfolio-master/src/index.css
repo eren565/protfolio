@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* App.css - plain CSS (no @apply) */
+
+/* Tailwind directives are NOT included here to avoid @apply issues.
+   If you *do* want Tailwind utilities, keep your Tailwind import file
+   separate and ensure Tailwind processes it. This file uses plain CSS. */
+
+/* Basic reset */
+
+
